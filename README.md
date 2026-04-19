@@ -193,4 +193,5 @@ pytest
 - Everything the agent did is queryable with plain SQL — no separate observability system needed.
 
 ##
-- **Built with Claude**
+
+**Built with Claude**
