@@ -192,4 +192,5 @@ pytest
 - The same schema supports demos today and production hardening later.
 - Everything the agent did is queryable with plain SQL — no separate observability system needed.
 
+##
 - **Built with Claude**
